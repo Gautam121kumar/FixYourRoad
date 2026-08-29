@@ -12,7 +12,7 @@ function ReportPage() {
         <div className="mx-auto flex max-w-5xl items-center px-5 py-4">
 
           <h1 className="text-xl font-bold text-slate-900">
-            RoadWatch
+            FixYourRoad
           </h1>
 
         </div>

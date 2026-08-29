@@ -13,7 +13,7 @@ function ReportDetails() {
         <div className="mx-auto flex max-w-6xl items-center justify-between px-5 py-4">
 
           <h1 className="text-xl font-bold text-slate-900">
-            RoadWatch
+            FixYourRoad
           </h1>
 
           <p className="text-sm font-medium text-slate-600">
